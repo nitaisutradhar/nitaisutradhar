@@ -74,9 +74,7 @@ I love building interactive, user-focused, and performance-optimized web applica
 
 ### 🔥 Streak Statistics
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nitaisutradhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=nitaisutradhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📅 Contribution Calendar
